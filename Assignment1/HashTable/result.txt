@@ -1,0 +1,1 @@
+Time taken to insert value into Hash Table: 337308435 microseconds
